@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a593e0</color>
+    <color name="colorPrimaryDark">#566270</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="alpha">#00000000</color>
+    <color name="puple">#a593e0</color>
+    <color name="ivory">#fffff3</color>
+    <color name="darkblue">#566270</color>
+</resources>
